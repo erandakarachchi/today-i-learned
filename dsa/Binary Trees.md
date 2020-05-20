@@ -6,7 +6,7 @@ Below diagram shows a example of a binary tree. Binary trees are hierarchical da
 
 
 
-![Binary Tree](assets\Binary Tree.png)
+![Binary Tree]([https://github.com/erandakarachchi/today-i-learned/blob/master/dsa/assets/Binary%20Tree%20perfect.png](https://github.com/erandakarachchi/today-i-learned/blob/master/dsa/assets/Binary Tree perfect.png))
 
 
 
