@@ -6,7 +6,7 @@ Below diagram shows a example of a binary tree. Binary trees are hierarchical da
 
 
 
-![Binary Tree](assets/Binary Tree.png)
+![Binary Tree](assets/bt.png)
 
 
 
@@ -14,7 +14,7 @@ Perfect binary tree is formed when the every level of the binary tree is full of
 
 
 
-![Binary Tree](assets/Binary Tree.png)
+![Binary Tree](assets/pbt.png)
 
 ### Binary Tree Properties
 
