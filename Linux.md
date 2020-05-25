@@ -1,6 +1,8 @@
 # Linux
 
 1. [Change Owner of a file](#Change-Owner-of-a-file)
+2. [Check Current Directory](#Check-Current-Directory)
+3. [Change File Permissions](Change-File-Permissions)
 
 ### Change Owner of a file
 
@@ -16,7 +18,7 @@ sudo chown -R ubuntu:ubuntu
 
 
 
-### Check Current Directory (Present Working Directory)
+### Check Current Directory
 
 ```shell
 pwd
