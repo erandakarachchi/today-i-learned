@@ -2,7 +2,7 @@
 
 1. [Change Owner of a file](#Change-Owner-of-a-file)
 2. [Check Current Directory](#Check-Current-Directory)
-3. [Change File Permissions](Change-File-Permissions)
+3. [Change File Permissions](#Change-File-Permissions)
 
 ### Change Owner of a file
 
