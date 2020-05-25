@@ -5,4 +5,6 @@ Simple .md files to keep a record of what I learned today. This is a idea inspir
 
 ### Data Structures and Algorithms
 
-[Binary Trees](https://github.com/erandakarachchi/today-i-learned/blob/master/dsa/Binary%20Trees.md)
+1. [Binary Trees](https://github.com/erandakarachchi/today-i-learned/blob/master/dsa/Binary%20Trees.md)
+2. [Linux](https://github.com/erandakarachchi/today-i-learned/blob/master/Linux.md#linux)
+
