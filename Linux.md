@@ -1,6 +1,6 @@
 # Linux
 
-1. [Change Owner of a file](#Change Owner of a file)
+1. [Change Owner of a file](#Change-Owner-of-a-file)
 
 ### Change Owner of a file
 
