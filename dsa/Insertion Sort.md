@@ -10,7 +10,7 @@ For an example, Consider the following array.
 
 
 
-![ins_sort_unsorted](assets\ins_sort_unsorted.png)
+![ins_sort_unsorted](assets/ins_sort_unsorted.png)
 
 
 
@@ -22,7 +22,7 @@ As 45 <= 67 , We move 45 before 67 and shift 67 to the right, After completing s
 
 
 
-![ins_step_01](assets\ins_step_01.png)
+![ins_step_01](assets/ins_step_01.png)
 
 ### Step 02
 
@@ -32,7 +32,7 @@ As 25 <=45 and 25 <=67 , we move 25 to the beginning of  the sorted side and shi
 
 After the step 02, our array looks like this.
 
-![ins_step_02](assets\ins_step_02.png)
+![ins_step_02](assets/ins_step_02.png)
 
 ### Step 03
 
@@ -52,7 +52,7 @@ As 12<=89 , 12<=67, 12 <=23 ,  we determine that we needs to place 12 as the fir
 
 After the step 04, our sorted array looks like this.
 
-![ins_step-04](assets\ins_step-04.png)
+![ins_step-04](assets/ins_step-04.png)
 
 
 
