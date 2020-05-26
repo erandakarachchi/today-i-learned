@@ -42,7 +42,7 @@ As 89 <=67 , we place 89 right next to 67 (no need to move as it is in the corre
 
 After the step 03, our array looks like this.
 
-![ins_step_03](assets\ins_step_03.png)
+![ins_step_03](assets/ins_step_03.png)
 
 ### Step 04
 
