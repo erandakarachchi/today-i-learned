@@ -53,3 +53,36 @@ As 12<=89 , 12<=67, 12 <=23 ,  we determine that we needs to place 12 as the fir
 After the step 04, our sorted array looks like this.
 
 ![ins_step-04](assets\ins_step-04.png)
+
+
+
+
+
+## Insertion Sort Implementation (Python)
+
+Here is the python implementation of insertion sort.
+
+```python
+def insertion_sort(number_list):
+    '''
+    always assumes left side of the key is already sorted.
+    therefore we are checking where to place new key value in the sorted left side array.
+    '''
+    for i in range(1,len(number_list)):
+        key = number_list[i] #as the loop starts from 1, assumes leftmost value is already sorted.
+        j = i-1 #last index of the sorted sub array.
+        while j >= 0 and number_list[j] >key: #loops from end of the sorted part to begining and determine where to place the key.
+            number_list[j+1] = number_list[j] #while current_value_in_the_list > key, shift current value to the right.
+            j = j-1
+        number_list[j+1] = key #place the key in the new position after shifting values.
+    return(number_list)
+
+```
+
+To test this algorithm, use the function as follows.
+
+```python
+print(insertion_sort([5,2,4,6,1,3]))
+print(insertion_sort([45,65,87,54,867,54,7643,65,87]))
+```
+
