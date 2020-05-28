@@ -9,5 +9,5 @@ Simple .md files to keep a record of what I learned today. This is a idea inspir
 2. [Linux](https://github.com/erandakarachchi/today-i-learned/blob/master/Linux.md#linux)
 3. [Chrome](https://github.com/erandakarachchi/today-i-learned/tree/master/chrome)
 4. [Insertion Sort](https://github.com/erandakarachchi/today-i-learned/blob/master/dsa/Insertion%20Sort.md)
-5. [Git](https://github.com/erandakarachchi/today-i-learned/blob/master/Git.md)
+5. [Git](https://github.com/erandakarachchi/today-i-learned/blob/master/GIT.md)
 
