@@ -5,3 +5,5 @@ This is only available with Node API and no available on the client side (browse
 ```js
 assert.equal(7 + 1, 8);
 ```
+
+assert.deepEqual is used to compare objects deeply
